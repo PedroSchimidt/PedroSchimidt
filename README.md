@@ -1,16 +1,17 @@
-## Hi there 👋
-
-<!--
-**PedroSchimidt/PedroSchimidt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Olá! Eu sou Pedro Schimidt | Hi, I'm Pedro Schimidt 👋
+🎓 Estudo Engenharia de Software. | I'm studying Software Engineering.
+💻 Sou formado em Desenvolvimento de Sistemas pelo SENAI. | I have a technical degree in Systems Development from SENAI.
+🤖 Tenho interesse em desenvolvimento de software e IA. | I'm interested in software development and AI.
+🚀 Gosto de aprender criando projetos e resolvendo problemas reais. | I enjoy learning by building projects and solving real-world problems.
+📚 Estou sempre buscando evoluir minhas habilidades e conhecer novas tecnologias. | I'm always working to improve my skills and explore new technologies.
+Tecnologias | Technologies 🛠️
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+Projetos | Projects 📌
+Taskly — Task Manager — Aplicação web de gerenciamento de tarefas. | Task management web application.
+Salary Analytics — Dashboard interativo de análise de dados. | Interactive data analytics dashboard.
+TechCareer Simulator — Simulador de carreira em tecnologia. | Interactive tech career simulator.
