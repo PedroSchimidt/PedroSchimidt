@@ -11,7 +11,3 @@ Tecnologias | Technologies 🛠️
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-Projetos | Projects 📌
-Taskly — Task Manager — Aplicação web de gerenciamento de tarefas. | Task management web application.
-Salary Analytics — Dashboard interativo de análise de dados. | Interactive data analytics dashboard.
-TechCareer Simulator — Simulador de carreira em tecnologia. | Interactive tech career simulator.
